@@ -1,0 +1,18 @@
+{
+  "Group": "mychat",
+  "Name": "MyChat",
+  "Version": "1.0.0",
+  "Description": "Advanced chat system for Hytale",
+  "Authors": [
+    {
+      "Name": "Tiagoh"
+    }
+  ],
+  "Website": "https://tiagomalaguti.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.mychat.Main",
+  "IncludesAssetPack": false
+}
